@@ -4,12 +4,12 @@
  Skilled in Machine Learning, NLP, CNN, RNN, and Time Series Forecasting  
  Experienced with TensorFlow, PyTorch, Scikit-learn, and NumPy  
  Focused on solving real-world problems with AI
- Projects Which I Did Are
+ Projects Which I did are
 
 - 🧠 **[EEG Emotion Classification using CNN](https://github.com/Jeevan0818/EEG-Emotion-Classification-using-CNN)**  
   Classifies emotional states (Focused, Stressed, etc.) using EEG brainwave data and a custom CNN model.
 
-- 🫁 **Brain & Lung Cancer Detection** *(Coming Soon)*  
+- 🫁 **Brain & Lung Cancer Detection**  
   Real-time disease detection using MRI and X-ray images via deep learning.
 
 - 🤖 **[AI and ML Chatbot](https://github.com/Jeevan0818/AI-and-ML-chatbot)**  
