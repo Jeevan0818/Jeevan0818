@@ -23,7 +23,11 @@
 ### 📫 Let's Connect
 
 - 📧 Email: `jeevankethavath321@gmail.com`
-- 💼 [LinkedIn](https://www.linkedin.com/in/jeevan-sai-5537a7277/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/jeevan-sai-5537a7277/)
+- ### 📊 My Skill Distribution
+
+![Skill Pie Chart](https://github.com/Jeevan0818/Jeevan0818/blob/main/skill_distribution_pie_chart.png)
+
 
 
 ---
